@@ -10,6 +10,7 @@
     <!--[if lte IE 8]>
     <script src="<?php bloginfo('template_directory'); ?>/js/ie/html5shiv.js"></script><![endif]-->
     <!-- Favicons -->
+
     <link rel="apple-touch-icon" sizes="144x144"
           href="<?php bloginfo('template_directory'); ?>/images/favicons/apple-touch-icon-144x144.png">
     <link rel="apple-touch-icon" sizes="114x114"
@@ -33,7 +34,6 @@
     <link rel="stylesheet" href="<?php bloginfo('template_directory'); ?>/css/ie8.css"/><![endif]-->
     <!--[if lte IE 9]>
     <link rel="stylesheet" href="<?php bloginfo('template_directory'); ?>/css/ie9.css"/><![endif]-->
-
 
     <!-- Scripts -->
     <script src="<?php bloginfo('template_directory'); ?>/js/jquery.min.js"></script>
@@ -78,6 +78,7 @@
                             <li class="menu-item"><a href="<?php echo  site_url('#sketch-sec'); ?>" data-scroll>Wall</a></li>
                         </ul>
                     <?php } ?>
+
                 </nav>
             </div>
         </div>

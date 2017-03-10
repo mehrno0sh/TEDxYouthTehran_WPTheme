@@ -5,11 +5,13 @@
         <div class="content">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-8 col-md-offset-2 col-sm-12"><img id="intro-image"
-                                                                         class="hvr-wobble-horizontal img-responsive"
-                                                                         alt="intro"
-                                                                         src="<?php bloginfo('template_directory'); ?>/images/intro-p.svg">
+                    <div class="col-md-8 col-md-offset-2 col-sm-12">
+                        <img id="intro-image"
+                             class="hvr-wobble-horizontal img-responsive"
+                             alt="intro"
+                             src="<?php bloginfo('template_directory'); ?>/images/intro-p.svg">
                     </div>
+
                 </div>
                 <div class="row">
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum, sunt incidunt, in vero minus ipsa
